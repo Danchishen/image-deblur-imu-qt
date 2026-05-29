@@ -141,11 +141,11 @@ screenshots/result.png
 
 Then uncomment or update this section:
 
-<!--
+
 ![Main window](screenshots/main-window.png)
 ![Settings](screenshots/settings.png)
 ![Result](screenshots/result.png)
--->
+
 
 ## Limitations
 
