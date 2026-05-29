@@ -67,8 +67,6 @@ The project was originally developed with Qt Creator 4.11.1 on Windows 11.
 ├── main.cpp                   # Application entry point
 ├── blur.pro                   # Qt qmake project file
 ├── CMakeLists.txt             # CMake project configuration
-├── docs/                      # Documentation
-├── data/                      # Example input data
 └── screenshots/               # Application screenshots
 ```
 
