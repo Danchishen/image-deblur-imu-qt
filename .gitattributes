@@ -1,0 +1,24 @@
+* text=auto
+
+# Source files
+*.cpp text eol=lf
+*.h text eol=lf
+*.ui text eol=lf
+*.qrc text eol=lf
+*.pro text eol=lf
+*.txt text eol=lf
+*.md text eol=lf
+*.cmake text eol=lf
+CMakeLists.txt text eol=lf
+
+# Binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.bmp binary
+*.ico binary
+*.dll binary
+*.lib binary
+*.exe binary
+*.pdf binary
+*.docx binary

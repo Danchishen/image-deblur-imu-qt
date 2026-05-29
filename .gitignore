@@ -1,0 +1,102 @@
+# Build directories
+/build/
+/build-*/
+/cmake-build-*/
+/out/
+/bin/
+/obj/
+/debug/
+/release/
+/Debug/
+/Release/
+/x64/
+/x86/
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+Testing/
+
+# Qt / qmake generated files
+.qmake.stash
+Makefile
+Makefile.*
+*.moc
+moc_*.cpp
+moc_*.h
+qrc_*.cpp
+ui_*.h
+*.qmlc
+*.jsc
+
+# Qt Creator user-specific files
+*.pro.user
+*.pro.user.*
+*.qbs.user
+*.qbs.user.*
+CMakeLists.txt.user
+
+# Visual Studio / MSVC user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.VC.opendb
+*.opendb
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+ipch/
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.lastbuildstate
+*.log
+
+# Compiled binaries and libraries
+*.exe
+*.dll
+*.lib
+*.a
+*.so
+*.dylib
+*.o
+*.obj
+*.exp
+*.app
+
+# Generated / temporary images and data
+*.tmp
+*.temp
+*.bak
+*.orig
+*.swp
+*.swo
+Thumbs.db
+desktop.ini
+
+# Application output examples - keep only selected files intentionally
+/output/
+/results/
+
+# Large raw datasets - add selected examples manually if needed
+/raw_data/
+/videos/
+
+# Python cache if scripts are added later
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE settings
+.idea/
+.vscode/
