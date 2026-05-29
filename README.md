@@ -131,17 +131,6 @@ More detailed Windows instructions are available in [`docs/BUILD_WINDOWS.md`](do
 
 ## Screenshots
 
-Add screenshots to the `screenshots/` folder after uploading the project:
-
-```text
-screenshots/main-window.png
-screenshots/settings.png
-screenshots/result.png
-```
-
-Then uncomment or update this section:
-
-
 ![Main window](screenshots/main-window.png)
 ![Settings](screenshots/settings.png)
 ![Result](screenshots/result.png)
